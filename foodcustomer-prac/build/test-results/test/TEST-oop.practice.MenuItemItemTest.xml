@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="oop.practice.MenuItemItemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-20T08:48:55" hostname="DESKTOP-R63QTR2" time="0.054">
-  <properties/>
-  <testcase name="요리를 생성한다." classname="oop.practice.MenuItemItemTest" time="0.054"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
