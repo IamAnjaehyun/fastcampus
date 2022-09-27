@@ -1,7 +1,0 @@
-HttpRequest
-    - RequestLine(Get /
-        - HttpMethod
-        - path
-        - queryString
-    -Header
-    - Body
