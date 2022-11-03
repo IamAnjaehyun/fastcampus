@@ -1,4 +1,4 @@
-package collab;
+package std_collab;
 
 public class Bus {
     int busNumber;

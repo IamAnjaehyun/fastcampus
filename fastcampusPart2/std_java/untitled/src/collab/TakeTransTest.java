@@ -1,4 +1,4 @@
-package collab;
+package std_collab;
 
 //객체지향 & 협력 연습
 
