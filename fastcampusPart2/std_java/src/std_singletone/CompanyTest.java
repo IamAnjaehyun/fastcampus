@@ -1,11 +1,9 @@
-package std_singletone;
-
 import java.util.Calendar;
 
 public class CompanyTest {
     public static void main(String[] args) {
-        Company company1 = Company.getInstance();
-        Company company2 = Company.getInstance();
+        std_singletone.Company company1 = std_singletone.Company.getInstance();
+        std_singletone.Company company2 = std_singletone.Company.getInstance();
 
         System.out.println(company1);
         System.out.println(company2);

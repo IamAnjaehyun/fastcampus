@@ -1,5 +1,3 @@
-package std_static;
-
 public class Employee {
 
     private static int serialNum = 1000;
@@ -7,7 +5,7 @@ public class Employee {
     private String employeeName;
     private String department;
 
-    public Employee(){
+    public Employee() {
         serialNum++;
         employeeId = serialNum;
     }
