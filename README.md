@@ -18,3 +18,6 @@ MVC 구조 이해, DI 내부 동작 원리 이해
 
 ◎ PART6 | Spring Boot 코드 분석
 내가 만든 코드와 Spring Boot 코드를 비교
+
+# fastcampus - part 2
+박은종 강사님의 자바 강의를 듣고 따라 작성한 코드입니다.
