@@ -18,7 +18,7 @@ public class Fibonacci {
 
     }
 
-    public int fibonacciIter(int n) {
+    public int fibonacciIter(int n) { // 반복
         int ppre = 0; //1번째 값
         int pre = 1; //2번째 값
         int current = 0; //3번째 값
@@ -32,7 +32,7 @@ public class Fibonacci {
         return current;
     }
 
-    public int fibonacciMem(int n) {
+    public int fibonacciMem(int n) { //배열 , 메모리제이션(이전 계산한값 저장해놓고 갖다 씀)
         value[0] = 0;
         value[1] = 1;
 
