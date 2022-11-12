@@ -1,0 +1,97 @@
+F0~F9머시기 같이하려면 fn키도 같이눌러야됨 ;;
+
+command + alt1 = 프로젝트 창으로 이동 or 프로젝트 창 가리기
+
+shift + command + F12 = 에디터 창 키우기 ? 왜안댐
+
+ctrl + tab = 에디터 항목 이동
+
+option + 화살표 = 단어별 이동
+
+fn + 화살표 = 끝으로 이동(상하좌우)
+
+control + option + n = 새 파일 생성
+
+command + / = 주석
+
+option + command + /  = 블록 주석
+
+shift + 위아래 = 영역설정
+
+control + option + I = 줄 자동정렬
+
+option + F7 = 사용처 찾기(딱히 쓸모없을듯)
+
+command + F = 찾기
+
+command + G(+shift) = 찾은 결과 이동
+
+command + shift + F = 경로 내 검색
+
+shift * 2 = 전체 검색
+
+command + E = 최근에 열었던거 검색
+
+command + J = 라이브템플릿(live template)
+
+option + enter = 알트엔터(quick fix)
+
+F2 = 이슈로 이동
+
+shift + option + O = import 안쓰는거 삭제
+
+command + N = getter/setter 생성 (alt + enter)
+
+control + O = override 자동생성
+
+control + I = implement 자동생성
+
+option + F12 = 터미널 창 이동
+
+shift + command + enter = 구문 자동완
+
+command + R (shift 추가하면 전체 경로내 대체)= 파일 내 대체(이름변경) (alt+shift+f6?그거 귀찮은버전)
+
+control * 2 = run anything 뭐든 실행
+
+control + shift + R = 에디터 실행
+
+shift + R = 실행
+
+command + F2 = 종
+
+command + D = 복제
+
+command + delete or Y= 삭제
+
+command + P = 파라미터 정보
+
+option + enter + 구현부 미리보기
+
+F1 = 클래스나 function 설명 api 문서
+
+shift + command + A = 기능 찾기
+
+option + enter = 테스트 코드 생성
+
+shift + command + T = 해당 테스트 코드 이동
+
+control + shift + R = (선택된 테스트) 실행
+
+command + F2 = 정지
+
+F6 = 클래스 이동
+
+shift + command + F6 = 타입 변
+
+command + F6 = 시그니처 변경
+
+shift + F6 = 이름변경
+
+command + F8 = 브레이크 포인트 설정(디버깅할때 사용)
+
+option + D = 디버깅 모드 실행
+
+shift + option + D = 에디터 실행
+
+option + command + L = 정렬
