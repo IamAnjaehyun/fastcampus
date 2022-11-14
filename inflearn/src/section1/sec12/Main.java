@@ -9,7 +9,7 @@ public class Main {
             int num = Integer.parseInt(tmp,2);
 //            System.out.println(tmp+" "+num); // 2진수 + 2진수를 10진수로
 
-//            System.out.println(tmp+" "+(char)num); // 10진수로 변환한 값을 char 값으로 형변ㄴ환
+//            System.out.println(tmp+" "+(char)num); // 10진수로 변환한 값을 char 값으로 형변환
 
             answer += (char)num;
 
