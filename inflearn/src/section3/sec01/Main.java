@@ -1,7 +1,6 @@
 package section3.sec01;
 //두 배열 합치기 + 오름차순 정렬
 //two pointers algorithm
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -14,7 +13,7 @@ public class Main {
             else answer.add(arr2[p2++]);
         }
         while(p1<n) answer.add(arr1[p1++]);
-        while(p2<n) answer.add(arr2[p2++]);
+        while(p2<m) answer.add(arr2[p2++]);
         return answer;
     }
 
@@ -28,7 +27,7 @@ public class Main {
         int arr2[] = new int[m];
         for (int i = 0; i < m; i++) arr2[i] = sc.nextInt();
 
-        System.out.println(solution(n, m, arr1, arr2));
+        for(int x : solution(n,m,arr1,arr2)) System.out.print(x + " ");
 
     }
 }
